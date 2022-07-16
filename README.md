@@ -19,11 +19,7 @@
  
  
 
- <code><img height="40px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" alt="c++"/></code>
-   <code><img height="40px" src="https://cdn-icons-png.flaticon.com/128/331/331395.png" alt="html"/></code>
-  <code><img  height="40px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css"/></code> 
-   <code>  <img  height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="ECMAScript"/></code>
- 
+
 </div>
 <hr>
 
@@ -44,3 +40,4 @@
  
  
 </div>
+<hr>
