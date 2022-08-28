@@ -3,7 +3,7 @@
 
  <ul>
  <li>tenho 16 anos  </li>
- <li>Sou estudante do CEFET-NF/técnico em Informática.</li>
+ <li>Atualmente cursando CEFET-NF/técnico em Informática.</li>
  <li> Gosto tanto de front-end quanto de back-end, mas prefiro back-end </li>
  
  </ul>
@@ -21,14 +21,11 @@
 </div>
 <br>
 <br>
-<div style="display: inline_block"  align="center">
-  <br>
-  
- 
- 
+
+<h1>  👉 skills :  <h1> 
 
 
-</div>
+<br>
 <hr>
 
 
