@@ -1,3 +1,12 @@
+<hr> 
+ <h2>  👉 Sobre mim :  </h2>
+
+ <ul>
+ <li>tenho 16 anos  </li>
+ <li>Sou estudante do CEFET-NF/técnico em Informática.</li>
+ <li> Gosto tanto de front-end quanto de back-end, mas prefiro back-end </li>
+ 
+ </ul>
 
 <hr>
 <br>
@@ -7,8 +16,7 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=joaosarmento12345&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosarmento12345&layout=compact&langs_count=7&theme=chartreuse-dark"/>
     <br> <br>
-    <a href="https://github.com/joaosarmento12345">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosarmento12345&theme=chartreuse-dark&hide_langs_below=1" />
+  
 </a>
 </div>
 <br>
