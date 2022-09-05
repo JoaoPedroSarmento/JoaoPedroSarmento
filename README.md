@@ -33,7 +33,7 @@
 <img alt= "Sass" width = "50px" src="https://JoaoPedroSarmento.github.io/img/sass.png">
 <img alt= "SQL" width = "50px" src="https://JoaoPedroSarmento.github.io/img/sql-server.png">
 <img alt= "Typescript" width = "50px" src="https://JoaoPedroSarmento.github.io/img/typescript.png">
-
+<img alt= "Bulma" width = "120px" src="https://bulma.io/images/bulma-logo.png">
 <br>
 <hr>
 
