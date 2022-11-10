@@ -4,7 +4,7 @@
  <ul>
  <li>tenho 16 anos  </li>
  <li>Atualmente cursando CEFET-NF/Informática</li>
- <li> Gosto tanto de front-end quanto de back-end, mas prefiro back-end </li>
+
  
  </ul>
 
