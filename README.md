@@ -22,20 +22,6 @@
 <br>
 <br>
 
-<h1>  👉 skills :  <h1> 
-<img alt= "JavaScript" width = "50px" src="https://joaopedrosarmento.github.io/img/arquivo-js.png">
-<img alt= "Bootstrap" width = "50px" src="https://JoaoPedroSarmento.github.io/img/bootstrap.png">
-<img alt= "C++" width = "50px" src="https://JoaoPedroSarmento.github.io/img/c-.png">
-<img alt= "HTML" width = "50px" src="https://JoaoPedroSarmento.github.io/img/html-5.png">
-<img alt= "CSS" width = "50px" src="https://JoaoPedroSarmento.github.io/img/css-3.png">
-<img alt= "Nodejs" width = "50px" src="https://JoaoPedroSarmento.github.io/img/nodejs.png">
-<img alt= "React" width = "50px" src="https://JoaoPedroSarmento.github.io/img/react.png">
-<img alt= "Sass" width = "50px" src="https://JoaoPedroSarmento.github.io/img/sass.png">
-<img alt= "SQL" width = "50px" src="https://JoaoPedroSarmento.github.io/img/sql-server.png">
-<img alt= "Typescript" width = "50px" src="https://JoaoPedroSarmento.github.io/img/typescript.png">
-<img alt= "Bulma" width = "120px" src="https://bulma.io/images/bulma-logo.png">
-<br>
-<hr>
 
 
 
