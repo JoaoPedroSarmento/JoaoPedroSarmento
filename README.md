@@ -4,7 +4,7 @@
 
 #include <iostream>
 #include <string>
-using namespace std;
+ using namespace std;
 
 int main() {  
     cout << "Bem-vindo(a) ao meu perfil!!";
@@ -19,4 +19,3 @@ int main() {
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroSarmento&show_icons=true&theme=dark)
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroSarmento&layout=compact&theme=dark)
