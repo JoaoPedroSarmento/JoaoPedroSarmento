@@ -1,21 +1,18 @@
-<h2> Bem-vindo(a)  </h2>  
+<h2 align="center"> Bem-vindo(a) 👋 </h2>
 
-```c++
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JoaoPedroSarmento" alt="visitantes">
+</p>
 
+```cpp
 #include <iostream>
 #include <string>
- using namespace std;
+
+using namespace std;
 
 int main() {  
     cout << "Bem-vindo(a) ao meu perfil!!";
     string nome = "João Pedro Dieguez Moraes Sarmento";
-    string habilidades[8] = {"HTML", "CSS", "C++", "JavaScript", "Sass", "Python", "c#" , "typescript"};
+    string habilidades[8] = {"HTML", "CSS", "C++", "JavaScript", "Sass", "Python", "C#", "TypeScript", "Git e Github", "React" , "PHP"};
     string escola = "CEFET/NF";
 }
-```
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=JoaoPedroSarmento)
-<br>
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroSarmento&show_icons=true&theme=dark)
-<br>
-<br>
