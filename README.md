@@ -13,6 +13,6 @@ using namespace std;
 int main() {  
     cout << "Bem-vindo(a) ao meu perfil!!";
     string nome = "João Pedro Dieguez Moraes Sarmento";
-    string habilidades[8] = {"HTML", "CSS", "C++", "JavaScript", "Sass", "Python", "C#", "TypeScript", "Git e Github", "React" , "PHP"};
+    string habilidades[13] = {"HTML", "CSS", "C++", "JavaScript", "Sass", "Python", "C#", "TypeScript", "Git e Github", "React" , "PHP", "JAVA", "MySql"};
     string escola = "CEFET/NF";
 }
